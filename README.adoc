@@ -1,0 +1,3 @@
+= Squiggles
+
+A repository of scribbles, scratches, scrawls, scrabbles and (primarily) squiggles.
